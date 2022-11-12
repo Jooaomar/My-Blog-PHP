@@ -10,17 +10,13 @@ In this practical work, we created a blog simulation where the logged in user ca
 
 ## how to play?
 
-* First:
+* First: Make sure you have PHP 7* installed, PDO-PHO and Apache Server is working
 
-Make sure you have PHP 7* installed, PDO-PHO and Apache Server is working
-
-* Second:
-
-- download the project
+* Second: download the project
 
 `git clone https://github.com/Jooaomar/My-Blog-PHP.git`
 
- - run
+* run in terminal
  
 `php -S localhost:<port>
 
